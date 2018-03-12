@@ -43,6 +43,7 @@
     $message =$_GET["message"];
     $color = $_GET["color"];
     echo "<p style='color:{$color}'><span style=font-size:{$size}px>{$message}</span><p>";
+    $boutonu
      ?>
    
 </body>
